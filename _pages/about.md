@@ -31,11 +31,8 @@ I am a first-year Ph.D. candidate at the HKUST NLP Group, Hong Kong University o
 
 ## Research Interests and Skills
 
-- Natural Language Processing
-- Machine Learning
-- LLM Reasoning and Reinforcement Learning
-- Hallucination in Vision-Language Models (VLM)
-- LLM Truthfulness and Interpretability
+- **Skills:** Natural Language Processing; Machine Learning
+- **Research interests:** LLM Reasoning and Reinforcement Learning; Hallucination in Vision-Language Models (VLM); LLM Truthfulness and Interpretability
 
 ## Publications
 
